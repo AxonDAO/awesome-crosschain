@@ -6,6 +6,7 @@
 
 ## Contents
 <details><summary>Click to expand</summary>
+
 - [Awesome-CrossChain](#awesome-crosschain)
   - [Contents](#contents)
   - [Basic Introduction](#basic-introduction)
@@ -14,6 +15,7 @@
   - [Tools & Libraries](#tools--libraries)
   - [Papers](#papers)
   - [Related Resources](#related-resources)
+
 </details>
 
 ## Basic Introduction
