@@ -36,13 +36,13 @@
 - bitxhub, [website](https://www.hyperchain.cn/products/interchain)
 - [bystack](https://www.bystack.com/), [vapor](https://github.com/Bytom/vapor)
 - [CKB Sidechain Framework](https://talk.nervos.org/t/ckb-sidechain-framework/4722)
-- [matic](https://matic.network/), brings massive scale to Ethereum using an adapted version of Plasma with PoS based side chains.
+- [Matic](https://matic.network/), brings massive scale to Ethereum using an adapted version of Plasma with PoS based side chains.
+- [Rainbow Bridge](https://github.com/near/rainbow-bridge-cli), NEAR <-> Ethereum Decentralized Bridge.
 
 ## Information Resources
 
 - twitter
-    - [Cross-Chain Group](https://twitter.com/crosschaingroup)
-    - [Keep #tBTC](https://twitter.com/keep_project)
+    - [Cross Chain Tweet List](https://twitter.com/i/lists/1288739100896292864)
 - Medium
     - [summa](https://medium.com/summa-technology), Interoperability as a Service
 - Community
